@@ -1,0 +1,8 @@
+#–file:./config/  高优先级的会覆盖低优先级的配置，形成互补
+#–file:./
+#–classpath:/config/
+#–classpath:/
+
+#spring:
+#  application:
+#    name: config_app
